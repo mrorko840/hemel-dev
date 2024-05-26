@@ -47,7 +47,7 @@ const AppHeader = () => {
 				<div className="flex justify-between items-center px-4 sm:px-0">
 					<div>
 						<Link to="/">
-							<h1 className="text-white font-bold !text-[40px]">H E M E L</h1>
+							<h1 className="text-primary-dark dark:text-primary-light font-bold !text-[40px]">H E M E L</h1>
 						</Link>
 					</div>
 
